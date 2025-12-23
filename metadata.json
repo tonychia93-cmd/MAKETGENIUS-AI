@@ -1,0 +1,7 @@
+{
+  "name": "MarketGenius AI: Strategy-to-Creative",
+  "description": "An end-to-end marketing automation platform that transforms business strategies into high-converting social media copy and visual posters using Gemini AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
